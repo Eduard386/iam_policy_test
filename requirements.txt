@@ -1,0 +1,5 @@
+boto3
+pytest
+pytest-html
+moto==4.2.14
+unittest2
