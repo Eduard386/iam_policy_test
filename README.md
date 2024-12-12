@@ -28,7 +28,7 @@ This project is designed to automate the testing of AWS IAM policies that allow 
     pip3 install --upgrade -r requirements.txt
     ```
 
-## Run
+## Run and generate report in "report.html" file in the root directory
 
 1. **Run tests:**
 
